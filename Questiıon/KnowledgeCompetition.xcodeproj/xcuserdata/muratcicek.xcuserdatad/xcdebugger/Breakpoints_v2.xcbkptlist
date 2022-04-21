@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C414488F-E730-4D7B-AB9E-C3F596DE8778"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "351207E7-B818-4B61-80C2-B74461FDC7EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/ArtPage/ArtPage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A6A2B72-4379-4E92-BA7F-E4D1B0A1DA33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6C0F439-C396-40D2-BFD6-0EE48C4C57AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BCAABD9-2A1F-4189-A7FC-1C5DA9ACB9B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D76A212-35CF-4041-8456-A9864392E998"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D43395E-473D-4A88-9961-561160BA3D2B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "842D848F-2734-4354-8109-6670BB2DB5CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F4712EB-D0E9-4877-BB76-FF9133221FBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F4712EB-D0E9-4877-BB76-FF9133221FBA - 719be4451c6321a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KnowledgeCompetition.QuestionNetwork.getAllData(url: Swift.String, httpMethod: KnowledgeCompetition.httpMethod, completion: (Swift.Result&lt;KnowledgeCompetition.Question, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "KnowledgeCompetition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muratcicek/Desktop/swift/KnowledgeCompetition/KnowledgeCompetition/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "4F4712EB-D0E9-4877-BB76-FF9133221FBA - 719be4451c6321a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KnowledgeCompetition.QuestionNetwork.getAllData(url: Swift.String, httpMethod: KnowledgeCompetition.httpMethod, completion: (Swift.Result&lt;KnowledgeCompetition.Question, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "KnowledgeCompetition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muratcicek/Desktop/swift/KnowledgeCompetition/KnowledgeCompetition/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F936A809-AE21-4265-9839-792B0DD69953"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC4ED631-0056-419B-A767-DBCBEF16E808"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "756D8C3C-B43B-4303-8F97-11450AA02A51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "756D8C3C-B43B-4303-8F97-11450AA02A51 - 719be4451c63212d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KnowledgeCompetition.QuestionNetwork.getAllData(url: Swift.String, httpMethod: KnowledgeCompetition.httpMethod, completion: (Swift.Result&lt;KnowledgeCompetition.Question, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "KnowledgeCompetition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muratcicek/Desktop/swift/KnowledgeCompetition/KnowledgeCompetition/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "756D8C3C-B43B-4303-8F97-11450AA02A51 - 719be4451c63212d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in KnowledgeCompetition.QuestionNetwork.getAllData(url: Swift.String, httpMethod: KnowledgeCompetition.httpMethod, completion: (Swift.Result&lt;KnowledgeCompetition.Question, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "KnowledgeCompetition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muratcicek/Desktop/swift/KnowledgeCompetition/KnowledgeCompetition/Network/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07CE8A81-768F-444F-88F3-838D65D42DE8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71113B9A-3420-41B5-AEBE-EC3A4259FF3D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5B6F5E6-0B94-46E0-BED1-29111FFF3917"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/Network/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getAllData(url:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF73DEAB-4D0B-40B8-A367-E5ED12E200C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F01DF936-9066-4C11-8D15-8798A287CC79"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F994A77-E7BA-44E3-9DBF-25A785FFB719"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01D00369-A3D5-46E6-9754-E3E2F12F1B5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A676E986-099F-4165-B2A8-D8986B00F2EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78446E65-471C-497B-8028-4018D8070170"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "661916A8-02CA-4BEE-A8E0-9ED3996F29C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12EEBB92-80EB-4A2E-9939-0AB27A2173F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5EC440C-1488-44D6-AD8E-764A47975AED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/HomePage/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getDatas(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BF09561-E963-4D72-B3BC-2ACD2762379C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KnowledgeCompetition/View/ArtPage/ArtPageCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(question:index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
